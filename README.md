@@ -75,3 +75,8 @@
 ## 八、参考资料
 
 
+分分钟搞定python破解无线wifi(https://www.cnblogs.com/shengulong/p/6367343.html)
+
+如何获取隔壁wifi密码，非暴力破解(https://www.cnblogs.com/shengulong/p/6367343.html)
+
+WIFI密码破解全攻略（https://jingyan.baidu.com/article/f79b7cb3ac67739144023ec0.html）

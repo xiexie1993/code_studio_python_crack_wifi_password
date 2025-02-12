@@ -11,12 +11,22 @@
 
 + 运行环境
     + python3 （开发时使用版本python3.6）
-        > 需要python的第三方模块 pywifi
+    + 需要python的第三方模块 pywifi
 
 + 部署
     + 步骤 1 ： 安装好python3（下载安装包-->安装-->配置系统变量）
-    + 步骤 2 ： 安装所需的python模块 pywifi （pip安装，或者下载模块包离线安装）
+    + 步骤 2 ： 安装所需的python模块 `pywifi` （pip安装，或者下载模块包离线安装）
     + 步骤 3 ： 下代码,开启电脑的无线wifi开关（电脑需要有无线模块并开启）
+ 
+- 在线安装方法:
+
+    - 1）我们用cmd命令行,进入到你的文件目录
+    - 2）使用命令pip install pywifi
+- 本地安装方法： (pywifi的模块包在../resource_package/pywifi-master.rar)
+
+    - 1）下载解压好以后，我们用cmd命令行,进入到你的文件目录， 
+    - 2）使用命令pip install . 注意了（install后面有个点） 
+    - 3）然后就会安装了，等一会就可以了。
     
 ## 三、代码概要
 
@@ -60,23 +70,15 @@
 
 </code></pre>
 
-## 五、更新日志
+
+## 五、开发日志
+- 2018-02-21 15:54:40 问题：win7 下，列举的wifi名称有乱码，识别错误，会报错停止
+
+## 六、参考资料
 
 
+[分分钟搞定python破解无线wifi](https://www.cnblogs.com/shengulong/p/6367343.html)
 
-## 六、开发日志
+[如何获取隔壁wifi密码，非暴力破解](https://www.cnblogs.com/shengulong/p/6367343.html)
 
-
-
-## 七、总结与展望
-
-
-
-## 八、参考资料
-
-
-分分钟搞定python破解无线wifi(https://www.cnblogs.com/shengulong/p/6367343.html)
-
-如何获取隔壁wifi密码，非暴力破解(https://www.cnblogs.com/shengulong/p/6367343.html)
-
-WIFI密码破解全攻略（https://jingyan.baidu.com/article/f79b7cb3ac67739144023ec0.html）
+~[(已失效)WIFI密码破解全攻略](https://jingyan.baidu.com/article/f79b7cb3ac67739144023ec0.html)~

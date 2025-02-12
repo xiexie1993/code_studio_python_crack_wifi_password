@@ -11,7 +11,7 @@
 
 + 运行环境
     + python3 （开发时使用版本python3.6）
-        > 需要python的第三方模块 pywifi
+    + python的第三方模块 pywifi
 
 + 部署
     + 步骤 1 ： 安装好python3（下载安装包-->安装-->配置系统变量）
@@ -75,8 +75,8 @@
 ## 八、参考资料
 
 
-分分钟搞定python破解无线wifi(https://www.cnblogs.com/shengulong/p/6367343.html)
+[分分钟搞定python破解无线wifi](https://www.cnblogs.com/shengulong/p/6367343.html)
 
-如何获取隔壁wifi密码，非暴力破解(https://www.cnblogs.com/shengulong/p/6367343.html)
+[如何获取隔壁wifi密码，非暴力破解](https://www.cnblogs.com/shengulong/p/6367343.html)
 
-WIFI密码破解全攻略（https://jingyan.baidu.com/article/f79b7cb3ac67739144023ec0.html）
+~[(已失效)WIFI密码破解全攻略](https://jingyan.baidu.com/article/f79b7cb3ac67739144023ec0.html)~
